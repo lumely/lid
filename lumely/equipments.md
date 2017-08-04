@@ -25,14 +25,14 @@
 |027|||TS(M)|TS(M)|3.0 m|熱収縮未処理|
 |026|||TS(M)|TS(M)|2.8 m|橙, 自作, 熱収縮未処理|
 |028|||mini-TRS(M)|mini-TRS(M)|3.0 m|ステレオミニフォン, 熱収縮未処理|
-|029|HOSA|CYX-405F|XLR(M×2)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
-|030|HOSA|CYX-405F|XLR(M×2)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
-|031|HOSA|CYX-405F|XLR(M×2)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
-|032|HOSA|CYX-405F|XLR(M×2)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
-|033|HOSA|XVM-105F|XLR(M)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
-|034|HOSA|XVM-105F|XLR(M)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
-|035|HOSA|XVM-105F|XLR(M)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
-|036|HOSA|XVM-105F|XLR(M)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
+|029|HOSA|CYX-405F|XLR(F×2)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
+|030|HOSA|CYX-405F|XLR(F×2)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
+|031|HOSA|CYX-405F|XLR(F×2)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
+|032|HOSA|CYX-405F|XLR(F×2)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
+|033|HOSA|XVM-105F|XLR(F)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
+|034|HOSA|XVM-105F|XLR(F)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
+|035|HOSA|XVM-105F|XLR(F)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
+|036|HOSA|XVM-105F|XLR(F)|mini-TRS(M)|1.5 m|L字(端子2), 熱収縮未処理|
 
 
 ### デュアルケーブル
