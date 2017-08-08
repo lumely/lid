@@ -48,8 +48,15 @@
 ### その他ケーブル
 |ID|メーカー|型番|端子1|端子2|長さ|備考|
 |:---:|----:|----:|----:|----:|----:|----:|
+|040|ELECOM||USB2.0TypeA(M)|USB2.0TypeB(M)|5.0 m|ピンク, 熱収縮未処理|
+|041|||USB2.0TypeA(M)|USB2.0TypeB(M)|5.0 m|銀, 熱収縮未処理|
+|042|||USB2.0TypeA(M)|USB2.0TypeB(M)|1.8 m|熱収縮未処理|
+|043|||USB2.0TypeA(M)|USB2.0miniTypeB(M)|0.8 m|熱収縮未処理|
+|044|||USB2.0TypeA(M)|USB2.0microTypeB(M)|1.0 m|熱収縮未処理|
+|045||UC-E6|USB2.0TypeA(M)|Nikon独自規格(M)|1.5 m|熱収縮未処理|
 |039|SANWA SUPPLY||LAN-Cat6e(M)|LAN-Cat6e(M)|10.1 m|熱収縮未処理|
 |038|AmazonBasics||HDMI-TypeA(M)|HDMI-TypeA(M)|7.6 m|熱収縮未処理|
+|046|iBUFFALO|BSHD07D50|HDMI-TypeA(M)|DVI-D(M)|5.0 m|熱収縮未処理|
 |037|ELECOM|IE-L6615|6pinIEEE1394(M)|6pinIEEE1394(M)|1.5 m|熱収縮未処理|
 
 ### 電源タップ
