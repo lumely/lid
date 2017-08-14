@@ -16,10 +16,11 @@
   ゲーム工房スパ帝国
 
 #### カテゴリ
-- 
+- [カードゲーム](https://boardgamegeek.com/boardgamecategory/1002/card-game)
+- [ブラフ](https://boardgamegeek.com/boardgamecategory/1023/bluffing)
 
 #### メカニズム
-- 
+- [プレイヤー脱落](https://boardgamegeek.com/boardgamemechanic/2685/player-elimination)
 
 ------
 ## <a name="0001">Lost Legacy</a>
