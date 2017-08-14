@@ -31,14 +31,14 @@
   ワンドロー
 
 #### カテゴリ
-- Bluffing
-- Card Game
-- Deduction
+- [カードゲーム](https://boardgamegeek.com/boardgamecategory/1002/card-game)
+- [ディダクション](https://boardgamegeek.com/boardgamecategory/1039/deduction)
+- [ブラフ](https://boardgamegeek.com/boardgamecategory/1023/bluffing)
 
 #### メカニズム
-- Hand Management
-- Memory
-- Player Elimination
+- [ハンドマネジメント](https://boardgamegeek.com/boardgamemechanic/2040/hand-management)
+- [プレイヤー脱落](https://boardgamegeek.com/boardgamemechanic/2685/player-elimination)
+- [記憶](https://boardgamegeek.com/boardgamemechanic/2047/memory)
 
 ------
 ## <a name="0002">Lost Legacy 百年戦争と竜の巫女</a>
@@ -50,14 +50,14 @@
   ワンドロー
 
 #### カテゴリ
-- Bluffing
-- Card Game
-- Deduction
+- [カードゲーム](https://boardgamegeek.com/boardgamecategory/1002/card-game)
+- [ディダクション](https://boardgamegeek.com/boardgamecategory/1039/deduction)
+- [ブラフ](https://boardgamegeek.com/boardgamecategory/1023/bluffing)
 
 #### メカニズム
-- Hand Management
-- Memory
-- Player Elimination
+- [ハンドマネジメント](https://boardgamegeek.com/boardgamemechanic/2040/hand-management)
+- [プレイヤー脱落](https://boardgamegeek.com/boardgamemechanic/2685/player-elimination)
+- [記憶](https://boardgamegeek.com/boardgamemechanic/2047/memory)
 
 ------
 ## <a name="0003">Lost Legacy 貧乏探偵と陰謀の城</a>
@@ -69,11 +69,11 @@
   ワンドロー
 
 #### カテゴリ
-- Bluffing
-- Card Game
-- Deduction
+- [カードゲーム](https://boardgamegeek.com/boardgamecategory/1002/card-game)
+- [ディダクション](https://boardgamegeek.com/boardgamecategory/1039/deduction)
+- [ブラフ](https://boardgamegeek.com/boardgamecategory/1023/bluffing)
 
 #### メカニズム
-- Hand Management
-- Memory
-- Player Elimination
+- [ハンドマネジメント](https://boardgamegeek.com/boardgamemechanic/2040/hand-management)
+- [プレイヤー脱落](https://boardgamegeek.com/boardgamemechanic/2685/player-elimination)
+- [記憶](https://boardgamegeek.com/boardgamemechanic/2047/memory)
