@@ -7,22 +7,6 @@
 |[NOT MY FAULT!](#0004)|2-8|10||||||
 
 ------
-## <a name="0004">NOT MY FAULT!</a>
-|人数|時間(min)|評価(1-3)|難易度(1-3)|戦略(1-3)|運(0-3)|備考|
-|---:|---:|---:|---:|---:|---:|---:|
-|2-8|10||||||
-
-- 制作  
-  ゲーム工房スパ帝国
-
-#### カテゴリ
-- [カードゲーム](https://boardgamegeek.com/boardgamecategory/1002/card-game)
-- [ブラフ](https://boardgamegeek.com/boardgamecategory/1023/bluffing)
-
-#### メカニズム
-- [プレイヤー脱落](https://boardgamegeek.com/boardgamemechanic/2685/player-elimination)
-
-------
 ## <a name="0001">Lost Legacy</a>
 |人数|時間(min)|評価(1-3)|難易度(1-3)|戦略(1-3)|運(0-3)|備考|
 |---:|---:|---:|---:|---:|---:|---:|
@@ -78,3 +62,19 @@
 - [ハンドマネジメント](https://boardgamegeek.com/boardgamemechanic/2040/hand-management)
 - [プレイヤー脱落](https://boardgamegeek.com/boardgamemechanic/2685/player-elimination)
 - [記憶](https://boardgamegeek.com/boardgamemechanic/2047/memory)
+
+------
+## <a name="0004">NOT MY FAULT!</a>
+|人数|時間(min)|評価(1-3)|難易度(1-3)|戦略(1-3)|運(0-3)|備考|
+|---:|---:|---:|---:|---:|---:|---:|
+|2-8|10||||||
+
+- 制作  
+  ゲーム工房スパ帝国
+
+#### カテゴリ
+- [カードゲーム](https://boardgamegeek.com/boardgamecategory/1002/card-game)
+- [ブラフ](https://boardgamegeek.com/boardgamecategory/1023/bluffing)
+
+#### メカニズム
+- [プレイヤー脱落](https://boardgamegeek.com/boardgamemechanic/2685/player-elimination)
