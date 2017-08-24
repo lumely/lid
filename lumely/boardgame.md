@@ -14,6 +14,7 @@
 
 - 制作  
   ワンドロー
+- [BoardGameGeek](https://boardgamegeek.com/boardgame/142039/lost-legacy)
 
 #### カテゴリ
 - [カードゲーム](https://boardgamegeek.com/boardgamecategory/1002/card-game)
@@ -33,6 +34,7 @@
 
 - 制作  
   ワンドロー
+- [BoardGameGeek](https://boardgamegeek.com/boardgame/147883/lost-legacy-hyakunen-senso-ryu-no-miko)
 
 #### カテゴリ
 - [カードゲーム](https://boardgamegeek.com/boardgamecategory/1002/card-game)
@@ -52,6 +54,7 @@
 
 - 制作  
   ワンドロー
+- [BoardGameGeek](https://boardgamegeek.com/boardgame/160436/lost-legacy-binbo-tantei-inbo-no-shiro)
 
 #### カテゴリ
 - [カードゲーム](https://boardgamegeek.com/boardgamecategory/1002/card-game)
@@ -71,6 +74,7 @@
 
 - 制作  
   ゲーム工房スパ帝国
+- BoardGameGeek
 
 #### カテゴリ
 - [カードゲーム](https://boardgamegeek.com/boardgamecategory/1002/card-game)
