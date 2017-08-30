@@ -1,4 +1,4 @@
-<!-- 49 -->
+<!-- 51 -->
 
 ### マイクケーブル
 |ID|メーカー|型番|端子1|端子2|長さ|備考|
@@ -55,9 +55,9 @@
 |043|||USB2.0TypeA(M)|USB2.0miniTypeB(M)|0.8 m|熱収縮未処理|
 |044|||USB2.0TypeA(M)|USB2.0microTypeB(M)|1.0 m|熱収縮未処理|
 |045||UC-E6|USB2.0TypeA(M)|Nikon独自規格(M)|1.5 m|熱収縮未処理|
-|039|SANWA SUPPLY||LAN-Cat6e(M)|LAN-Cat6e(M)|10.1 m|熱収縮未処理|
-|038|AmazonBasics||HDMI-TypeA(M)|HDMI-TypeA(M)|7.6 m|熱収縮未処理|
-|049|ELECOM|[DH-HD14ER30BK](https://www.amazon.co.jp/dp/B004QZPD9S/)|HDMI-TypeA(M)|HDMI-TypeA(M)|3.0 m|熱収縮未処理|
+HORIC9|SANWA SUPPLY||LAN-Cat6e(M)|LAN-Cat6e(M)|10.1 m|熱収縮未処理|50038|AmazonBasics||HDMI-TypeA(M)|HDMI-TypeA(M)|7.6 m|熱収縮未処理|
+|049|ELECOM|[DH-HD14ER30BK](https://www.amazon.co.jp/dp/B004QZPD9S/)|HDMI-TypeA(M)|HDMI-TypeA(M)|3.051
+m|熱収縮未処理|
 |048|AmazonBasics|[HL-007343](https://www.amazon.co.jp/dp/B014I8UHXE/)|HDMI-TypeA(M)|miniHDMI-TypeC(M)|3.0 m|熱収縮未処理|
 |046|iBUFFALO|BSHD07D50|HDMI-TypeA(M)|DVI-D(M)|5.0 m|熱収縮未処理|
 |037|ELECOM|IE-L6615|6pinIEEE1394(M)|6pinIEEE1394(M)|1.5 m|熱収縮未処理|
@@ -66,6 +66,9 @@
 |ID|メーカー|型番|端子1|端子2|長さ|備考|
 |:---:|----:|----:|----:|----:|----:|----:|
 |047|ミヨシ|[DPA-4KDP01/BK](http://www.mco.co.jp/products/pc/macac/dpa-4kdp01bk.html)|Mini DisplayPort(M)|DisplayPort(F)|0.14 m|熱収縮未処理|
+|050|HORIC|[HCFM07-010](https://www.amazon.co.jp/dp/B00GZIHSNI/)|miniHDMI-TypeC(M)|HDMI-TypeA(F)|0.1 m|熱収縮未処理|
+|051|SSA Service|[MIHDMI-15H](https://www.amazon.co.jp/dp/B00KS4RK06/)|miniHDMI-TypeC(M)|HDMI-TypeA(F)|0.1 m|熱収縮未処理|
+
 
 ### 電源タップ
 |ID|メーカー|型番|端子1|端子2|長さ|備考|
